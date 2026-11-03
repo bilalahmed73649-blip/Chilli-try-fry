@@ -1,0 +1,6 @@
+{
+  "name": "Chilli Try Fry – Official Restaurant Website",
+  "description": "Karachi-based fast-food restaurant located in Kharadar featuring signature Cheesy Lava Pizza, loaded fries, burgers, rolls, and BBQ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
